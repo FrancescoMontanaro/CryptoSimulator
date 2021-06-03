@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var color = '#1e90ff';","map":{"version":3,"sources":["/Users/francescomontanaro/node_modules/react-native-indicator/lib/const/index.js"],"names":["color"],"mappings":"AAAA,OAAO,IAAMA,KAAK,GAAG,SAAd","sourcesContent":["export const color = '#1e90ff';\n"]},"metadata":{},"sourceType":"module"}
