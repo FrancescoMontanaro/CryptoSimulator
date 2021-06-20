@@ -8,18 +8,18 @@ The application expands its functionalities by allowing users to authenticate an
 
 ## Mockups
 <div style="display: inline-block;">
- <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672469-eaa23f80-d1cb-11eb-8ebf-f21aca9685fe.png">
-  <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672470-ebd36c80-d1cb-11eb-9377-691f75ad65f0.png">
+ <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672469-eaa23f80-d1cb-11eb-8ebf-f21aca9685fe.png">
+  <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672470-ebd36c80-d1cb-11eb-9377-691f75ad65f0.png">
 </div>
 <div style="display: inline-block;">
- <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672476-ee35c680-d1cb-11eb-9542-e5393fb8057f.png">
-  <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672477-ef66f380-d1cb-11eb-82e5-c62845a554b3.png">
+ <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672476-ee35c680-d1cb-11eb-9542-e5393fb8057f.png">
+  <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672477-ef66f380-d1cb-11eb-82e5-c62845a554b3.png">
 </div>
 <div style="display: inline-block;">
- <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672481-f130b700-d1cb-11eb-9052-dfdbc4fe1709.png">
-  <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672482-f1c94d80-d1cb-11eb-8b5d-b1f1b4ed7437.png">
+ <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672481-f130b700-d1cb-11eb-9052-dfdbc4fe1709.png">
+  <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672482-f1c94d80-d1cb-11eb-8b5d-b1f1b4ed7437.png">
 </div>
 <div style="display: inline-block;">
- <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672483-f42ba780-d1cb-11eb-8530-ffc9115dd509.png">
-  <img width="48%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672485-f4c43e00-d1cb-11eb-8f8e-beb4754e7e36.png">
+ <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672483-f42ba780-d1cb-11eb-8530-ffc9115dd509.png">
+  <img width="30%" style="float: left: margin-right: 1%;" src="https://user-images.githubusercontent.com/56433128/122672485-f4c43e00-d1cb-11eb-8f8e-beb4754e7e36.png">
 </div>
