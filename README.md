@@ -16,8 +16,8 @@ The application expands its functionalities by allowing users to authenticate an
   <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672477-ef66f380-d1cb-11eb-82e5-c62845a554b3.png">
 </div>
 <div style="display: inline-block;">
- <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672481-f130b700-d1cb-11eb-9052-dfdbc4fe1709.png">
-  <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672482-f1c94d80-d1cb-11eb-8b5d-b1f1b4ed7437.png">
+ <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672482-f1c94d80-d1cb-11eb-8b5d-b1f1b4ed7437.png">
+  <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672481-f130b700-d1cb-11eb-9052-dfdbc4fe1709.png">
 </div>
 <div style="display: inline-block;">
  <img width="30%" style="float: left; margin: auto;" src="https://user-images.githubusercontent.com/56433128/122672483-f42ba780-d1cb-11eb-8530-ffc9115dd509.png">
